@@ -242,12 +242,12 @@ $(document).ready(function($) {
                     youtube: {
                         index: 'youtube.com/',
                         id: 'v=',
-                        src: '//www.youtube.com/embed/%id%?autoplay=1'
+                        src: 'https://www.youtube.com/embed/%id%?autoplay=1'
                     },
                     vimeo: {
                         index: 'vimeo.com/',
                         id: '/',
-                        src: '//player.vimeo.com/video/%id%?autoplay=1'
+                        src: 'https://player.vimeo.com/video/%id%?autoplay=1'
                     },
                     gmaps: {
                         index: '//maps.google.',
